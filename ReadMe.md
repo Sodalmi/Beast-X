@@ -17,7 +17,7 @@
 [![Issues Open](https://img.shields.io/github/issues/msy1717/Beast-X?&style=flat-square)]( https://github.com/msy1717/Beast-X/issues)
 [![Issues Closed](https://img.shields.io/github/issues-closed/msy1717/Beast-X?&style=flat-square)]( https://github.com/msy1717/Beast-X/issues?q=is:closed)
 [![PR Open](https://img.shields.io/github/issues-pr/msy177/Beast-X?&style=flat-square)]( https://github.com/msy1717/Beast-X/pulls)
-[![PR Closed](https://img.shields.io/github/issues-pr-closed/msy1717/Beast-X?&style=flat-square)]( https://github.com/msy1717/Beast-X/pulls?q=is:closed)
+[![PR Closed](https://img.shields.io/github/issues-pr-closed/msy1717/Beast-X?&style=flat-square)]( https://github.com/msy1717/sodalmi/pulls?q=is:closed)
 ![Repo Size](https://img.shields.io/github/repo-size/msy1717/Beast-X?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/msy1717/Beast-X?color=brown&logo=github&logoColor=green&style=for-the-badge)
 
